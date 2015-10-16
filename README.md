@@ -1,2 +1,2 @@
-# Absolutely-Responsive-Tables
-simple css hack
+### Absolutely responsive tables
+Simple css hack
